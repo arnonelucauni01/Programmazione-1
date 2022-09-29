@@ -1,7 +1,8 @@
-/*     TRACCIA 1
-Sviluppare una function C che, dati come parametri di input un array di int e il suo size,
-determina e restituisce come parametro di output il secondo più grande     elemento dell’array
-(N.B.: non bisogna seguire l’idea di ordinare prima l’array).
+/*     
+    TRACCIA 1
+        Sviluppare una function C che, dati come parametri di input un array di int e il suo size,
+        determina e restituisce come parametro di output il secondo più grande elemento dell’array
+        (N.B.: non bisogna seguire l’idea di ordinare prima l’array).
 */
 
 #include <stdio.h>

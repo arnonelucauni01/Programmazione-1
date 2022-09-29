@@ -1,8 +1,10 @@
-/*  TRACCIA 5 Sviluppare una function C che,
-dati come parametri di input un array 2D di int,
-il numero delle righe e il numero delle colonne,
-determina e restituisce come para-metro di output
-il massimo tra le somme degli elementi di ogni riga.
+/*  
+    TRACCIA 5
+        Sviluppare una function C che,
+        dati come parametri di input un array 2D di int,
+        il numero delle righe e il numero delle colonne,
+        determina e restituisce come parametro di output
+        il massimo tra le somme degli elementi di ogni riga.
 */
 
 #include <stdio.h>

@@ -1,8 +1,7 @@
 /*
 TRACCIA 18
     Sviluppare una function C che, dati come parametri di input un array di char e il suo size,
-    determina e restituisce come parametro
-    di output il carattere più frequente.
+    determina e restituisce come parametro di output il carattere più frequente.
 */
 
 

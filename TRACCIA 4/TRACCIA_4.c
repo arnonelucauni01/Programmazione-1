@@ -1,7 +1,9 @@
-/*  TRACCIA 4 Sviluppare una function C che,
-* dati come parametri di input un array 2D di double,
-* il numero delle righe e il numero delle colonne,
-* determina e restituisce come para-metro di output il massimo tra le somme degli elementi di ogni colonna.
+/*  
+    TRACCIA 4
+        Sviluppare una function C che,
+        dati come parametri di input un array 2D di double,
+        il numero delle righe e il numero delle colonne,
+        determina e restituisce come para-metro di output il massimo tra le somme degli elementi di ogni colonna.
 */
 
 #include <stdio.h>
