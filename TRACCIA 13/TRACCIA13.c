@@ -9,18 +9,18 @@
 #include <stdio.h>
 #include <string.h>
 
-void checkShortesWord(char* stringa);
+void checkShortestWord(char* stringa);
 
 void main() {
     char stringa[100];
     printf("inserisci una frase\n");
     scanf("%[^\n]%*c", stringa);
 
-    checkShortesWord(stringa);
+    checkShortestWord(stringa);
 }
 
 
-void checkShortesWord(char* stringa){
+void checkShortestWord(char* stringa){
     char* parola;
     int lenWord = 999;
     char* tmp = strtok(stringa," ");
