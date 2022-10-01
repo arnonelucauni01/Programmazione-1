@@ -16,7 +16,7 @@ int* restituisciOccorrenze(char testo[], int size);
 
 void main()
 {
-    char testo[] = "una madonna grande cagna succhia pesce lecca palla1";
+    char testo[] = "can che abbaia non morde";
     int *occorrenze = restituisciOccorrenze(testo, sizeof(testo)/sizeof(testo[0]));
     for(int i = 0; i < 21; i++){
         printf("\n a%c: %d", 'a'+i, occorrenze[i]);
